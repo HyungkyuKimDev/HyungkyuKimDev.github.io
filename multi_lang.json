@@ -1,0 +1,39 @@
+{
+    "Nav-Menu" : {
+        "About" : {
+            "KR" : "정보",
+            "JR" : "About",
+            "EN" : "About"
+        },
+        "Experience" : {
+            "KR" : "경력",
+            "JR" : "経歴",
+            "EN" : "Experience"
+        },
+        "Projects" : {
+            "KR" : "프로젝트",
+            "JR" : "プロジェクト",
+            "EN" : "Projects"
+        },
+        "Skils" : {
+            "KR" : "기술 스택",
+            "JR" : "スキル",
+            "EN" : "Skils"
+        },
+        "Education" : {
+            "KR" : "학력",
+            "JR" : "学歴",
+            "EN" : "Education"
+        },
+        "Contact" : {
+            "KR" : "연락처",
+            "JR" : "連絡先",
+            "EN" : "Contact"
+        },
+        "Resume" : {
+            "KR" : "이력서",
+            "JR" : "履歴書",
+            "EN" : "Resume"
+        }
+    }
+}
