@@ -968,6 +968,31 @@ of each drug container to estimate the degradation of the drug.
       backSpeed: 40
     });
   </script>
+  <script>
+// 여러 가지 언어 토글
+let language_switch = "";
+
+$(".language_america").on("click",function(){
+	language_switch = "america";
+	if (language_switch == "america"){
+		$(".About").html("About");
+	}
+})
+
+$(".language_japan").on("click",function(){
+	language_switch = "japan";
+	if (language_switch == "japan"){
+		$(".About").html("私について");
+	}
+})
+
+$(".language_korea").on("click",function(){
+	language_switch = "korea";
+	if (language_switch == "korea"){
+		$(".About").html("나에 대해서");
+	}
+})
+  </script> 
 
 
   <!-- jQuery-->
