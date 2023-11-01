@@ -7,6 +7,14 @@
  *   License(s): MIT
  * 
  */
+// 여러 가지 언어 토글
+let language_switch = "";
+
+$(".language_america").on("click",function(){
+	language_switch = "america";
+})
+
+
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory();
